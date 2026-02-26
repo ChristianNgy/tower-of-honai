@@ -7,7 +7,7 @@
   → Neutral, technisch, nicht ablenkend.
 
 ## Basis
-- **#1E293B**  
+- **#5B3A29**  
   → Leicht vom Hintergrund abgehoben, gibt visuelle Struktur.
 
 ---
@@ -35,6 +35,7 @@
 ## Movebutton (bewegung)
 - **#7fc3d9**
   → Steuert die Platten
+
 
 
 
