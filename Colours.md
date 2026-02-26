@@ -72,4 +72,5 @@
   → Für Reset-Button, Fehlermeldungen.
 
 ## Movebutton (bewegung)
-- **E7FEFF**
+- **#E7FEFF**
+  → Steuert die Platten
