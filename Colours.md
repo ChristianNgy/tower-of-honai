@@ -2,7 +2,7 @@
 - **#0F172A** – dunkles Navy  
   → Sorgt für starken Kontrast und lenkt den Fokus auf die Scheiben.
 
-## Türme
+## Türme und Counter
 - **#94A3B8** – kühles Grau-Blau  
   → Neutral, technisch, nicht ablenkend.
 
@@ -35,5 +35,6 @@
 ## Movebutton (bewegung)
 - **#7fc3d9**
   → Steuert die Platten
+
 
 
